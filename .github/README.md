@@ -29,6 +29,8 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
 </h3>
+
+
 ```console
 $ tmux
 $ sudo apt-get update && sudo apt-get upgrade -y
@@ -49,14 +51,14 @@ $ -ᴘʀᴇss Ctrl + C ᴏɴᴄᴇ ʏᴏᴜ ᴀʀᴇ ᴅᴏɴᴇ ᴡɪᴛʜ ᴇ�
 
 
 ```
- 
-<h3 align="center"> 
-    ᴇᴅɪᴛ <b>config.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
-</h3>
 
-<h2 align="center"> 
+
+    ᴇᴅɪᴛ <b>config.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs
+
+
+
    ⇝ ʀᴜɴ ᴅɪʀᴇᴄᴛʟʏ ⇜
-</h2>
+
 
 ```console
 $ bash start
@@ -96,7 +98,7 @@ OWNER_ID=
 </h3>
  : ➻
 
-➥ [Silent] × <a href="https://github.com/Wolf2901" alt="Wolf2901"> /></a>  
+➥ [Silent]
 
 </p>
 
