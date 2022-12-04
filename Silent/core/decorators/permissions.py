@@ -3,9 +3,9 @@ from traceback import format_exc as err
 
 from pyrogram.errors.exceptions.forbidden_403 import ChatWriteForbidden
 from pyrogram.types import Message
+from Silent.modules.adminserv import member_permissions
 
 from Silent import DEV_USERS, pgram
-from Silent.modules.adminserv import member_permissions
 
 
 async def authorised(func, subFunc2, client, message, *args, **kwargs):
