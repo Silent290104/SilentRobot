@@ -36,8 +36,8 @@ $ tmux
 $ sudo apt-get update && sudo apt-get upgrade -y
 $ sudo apt-get install python3-pip ffmpeg -y
 $ sudo apt install python3-pip
-$ git clone <repo link>
-$ cd <ʀᴇᴘᴏ ɴᴀᴍᴇ>
+$ git clone https://github.com/Wolf2901/SilentRobot
+$ cd SilentRobot
 $ pip3 install -U -r requirements.txt
 $ pip3 install --upgrade pip setuptools
 $ pip install -U "pip < 22" setuptools wheel && pip install -U -r requirements.txt
